@@ -50,7 +50,7 @@ Powered By:- @Besties_XD
     BUTTON = [
         [
             Button.url(
-                "📢 Repository", "https://github.com/Awesome-Prince/NekoRobot-3"
+                "📢 Repository", ""
             ),
             Button.url("💻 Collaborators", "https://telegra.ph/Neko-X-05-23"),
         ]
